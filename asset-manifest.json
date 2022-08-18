@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FoodFly/static/css/main.4ee53dc2.css",
+    "main.js": "/FoodFly/static/js/main.a9523697.js",
+    "static/js/787.28cb0dcd.chunk.js": "/FoodFly/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/FoodFly/index.html",
+    "main.4ee53dc2.css.map": "/FoodFly/static/css/main.4ee53dc2.css.map",
+    "main.a9523697.js.map": "/FoodFly/static/js/main.a9523697.js.map",
+    "787.28cb0dcd.chunk.js.map": "/FoodFly/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ee53dc2.css",
+    "static/js/main.a9523697.js"
+  ]
+}
